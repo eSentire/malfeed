@@ -15,3 +15,4 @@ disorderstatus.ru_watch_ip.lst,malicious activity,Malicious Botnet Serving Vario
 14072015q.com_watch_ip.lst,malicious activity,Malicious Botnet Serving Various Malware Families,
 22072014b.com_watch_ip.lst,malicious activity,Malicious Botnet Serving Various Malware Families,
 22072014c.com_watch_ip.lst,malicious activity,Malicious Botnet Serving Various Malware Families,
+volaya.ru,malicious activity,Win32/PSW.Papras.CK CnC,
