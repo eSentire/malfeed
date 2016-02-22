@@ -16,5 +16,5 @@ disorderstatus.ru_watch_ip.lst,malicious activity,Malicious Botnet Serving Vario
 22072014b.com_watch_ip.lst,malicious activity,Malicious Botnet Serving Various Malware Families,
 22072014c.com_watch_ip.lst,malicious activity,Malicious Botnet Serving Various Malware Families,
 volaya.ru_watch_ip.lst,malicious activity,Win32/PSW.Papras.CK CnC,
-dagestanskiiviskis.ru,malicious activity,Ursnif Variant CnC,
-islamislamdi.ru,malicious activity,Ursnif Variant CnC,
+dagestanskiiviskis.ru_watch_ip.lst,malicious activity,Ursnif Variant CnC,
+islamislamdi.ru_watch_ip.lst,malicious activity,Ursnif Variant CnC,
