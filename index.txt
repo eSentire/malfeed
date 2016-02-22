@@ -18,3 +18,4 @@ disorderstatus.ru_watch_ip.lst,malicious activity,Malicious Botnet Serving Vario
 volaya.ru_watch_ip.lst,malicious activity,Win32/PSW.Papras.CK CnC,
 dagestanskiiviskis.ru_watch_ip.lst,malicious activity,Ursnif Variant CnC,
 islamislamdi.ru_watch_ip.lst,malicious activity,Ursnif Variant CnC,
+hasanhashsde.ru_watch_ip.lst,malicious activity,Ursnif Variant CnC,
